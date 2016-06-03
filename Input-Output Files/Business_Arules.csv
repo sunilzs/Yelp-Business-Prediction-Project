@@ -1,0 +1,150 @@
+lhs,rhs,support,confidence,lift
+ Dog Walkers, Pets,0.005226481,1,63.77777778
+ Wine & Spirits, Beer,0.005226481,1,44.15384615
+ Venues & Event Spaces, Event Planning & Services,0.006968641,1,16.88235294
+ Fast Food,Burgers,0.005226481,0.75,28.7
+Italian, Pizza,0.010452962,0.857142857,17.57142857
+ Nurseries & Gardening, Home & Garden,0.005226481,1,57.4
+ Cocktail Bars, Nightlife,0.005226481,1,10.25
+ Real Estate, Apartments,0.005226481,1,143.5
+ Apartments, Real Estate,0.005226481,0.75,143.5
+ Real Estate,Home Services,0.005226481,1,114.8
+ Wine Bars, Nightlife,0.005226481,1,10.25
+Books, Music & Video,0.005226481,1,143.5
+ Music & Video,Books,0.005226481,0.75,143.5
+Books, Mags,0.005226481,1,143.5
+ Mags,Books,0.005226481,0.75,143.5
+ Lounges, Nightlife,0.005226481,1,10.25
+ Yoga, Fitness & Instruction,0.005226481,1,44.15384615
+ Yoga,Active Life,0.005226481,1,27.33333333
+Pet Services, Pet Boarding/Pet Sitting,0.006968641,1,82
+Tires, Automotive,0.006968641,1,27.33333333
+ Gastropubs, Nightlife,0.005226481,1,10.25
+Arts & Crafts, Event Planning & Services,0.005226481,1,16.88235294
+Arts & Crafts, Shopping,0.005226481,1,13.34883721
+ Apartments,Home Services,0.006968641,1,114.8
+Home Services, Apartments,0.006968641,0.8,114.8
+ Music & Video, Mags,0.006968641,1,143.5
+ Mags, Music & Video,0.006968641,1,143.5
+ Music & Video, Shopping,0.005226481,0.75,10.01162791
+Museums, Arts & Entertainment,0.006968641,1,57.4
+Mags, Shopping,0.005226481,0.75,10.01162791
+Hair Salons, Nail Salons,0.005226481,0.75,39.13636364
+Hair Salons, Beauty & Spas,0.005226481,0.75,28.7
+Parks,Active Life,0.012195122,0.777777778,13.52861953
+Trainers, Gyms,0.008710801,0.833333333,39.86111111
+ Pubs, Nightlife,0.012195122,1,10.25
+ Italian,Restaurants,0.010452962,0.75,5.817567568
+Beauty & Spas, Nail Salons,0.010452962,0.857142857,44.72727273
+Pubs, Nightlife,0.010452962,0.857142857,8.785714286
+ Desserts,Food,0.010452962,0.75,6.833333333
+ Hotels, Event Planning & Services,0.013937282,0.8,13.50588235
+ Sports Bars, Nightlife,0.015679443,0.9,9.225
+ Wine & Spirits, Beer,0.017421603,0.909090909,40.13986014
+ Beer, Wine & Spirits,0.017421603,0.769230769,40.13986014
+" Apartments, Real Estate",Home Services,0.005226481,1,114.8
+" Real Estate,Home Services", Apartments,0.005226481,1,143.5
+" Apartments,Home Services", Real Estate,0.005226481,0.75,143.5
+" Music & Video,Books", Mags,0.005226481,1,143.5
+" Mags,Books", Music & Video,0.005226481,1,143.5
+" Mags, Music & Video",Books,0.005226481,0.75,143.5
+" Fitness & Instruction, Yoga",Active Life,0.005226481,1,27.33333333
+" Yoga,Active Life", Fitness & Instruction,0.005226481,1,44.15384615
+" Event Planning & Services,Arts & Crafts", Shopping,0.005226481,1,13.34883721
+" Shopping,Arts & Crafts", Event Planning & Services,0.005226481,1,16.88235294
+" Event Planning & Services, Shopping",Arts & Crafts,0.005226481,1,191.3333333
+" Mags, Music & Video", Shopping,0.005226481,0.75,10.01162791
+" Music & Video, Shopping", Mags,0.005226481,1,143.5
+" Mags, Shopping", Music & Video,0.005226481,1,143.5
+" Nail Salons,Hair Salons", Beauty & Spas,0.005226481,1,38.26666667
+" Beauty & Spas,Hair Salons", Nail Salons,0.005226481,1,52.18181818
+" Trainers,Active Life", Gyms,0.005226481,0.75,35.875
+" Gyms,Active Life", Trainers,0.005226481,0.75,71.75
+" Fitness & Instruction, Trainers", Gyms,0.005226481,1,47.83333333
+" Bars,Bars", Nightlife,0.005226481,1,10.25
+" Nightlife,Bars", Bars,0.005226481,1,22.96
+" American (Traditional), Pubs", American (New),0.005226481,0.75,17.22
+" American (Traditional), Pubs", Nightlife,0.006968641,1,10.25
+" American (New), Pubs", Nightlife,0.008710801,1,10.25
+" Pubs,Bars", Nightlife,0.005226481,1,10.25
+" Italian,Food", Restaurants,0.005226481,1,7.756756757
+" Shopping,Beauty & Spas", Nail Salons,0.005226481,0.75,39.13636364
+" Nail Salons, Shopping",Beauty & Spas,0.005226481,1,82
+" Bars,Pubs", Nightlife,0.006968641,0.8,8.2
+" Restaurants,Pubs", Nightlife,0.005226481,1,10.25
+" Hotels,Hotels & Travel", Event Planning & Services,0.006968641,1,16.88235294
+" Hotels,Hotels & Travel", Event Planning & Services,0.006968641,0.8,13.50588235
+"Bakeries,Food", Food,0.005226481,1,31.88888889
+" Food,Food",Bakeries,0.005226481,0.75,47.83333333
+" Gyms,Active Life", Fitness & Instruction,0.005226481,0.75,33.11538462
+" Fitness & Instruction,Active Life", Gyms,0.005226481,1,47.83333333
+" American (Traditional), Nightlife",Bars,0.008710801,0.833333333,13.28703704
+" Automotive, Sports Bars", Nightlife,0.005226481,1,10.25
+" Automotive, Nightlife", Sports Bars,0.005226481,1,57.4
+" American (Traditional), Sports Bars",Bars,0.006968641,0.8,12.75555556
+" American (Traditional), Sports Bars", Nightlife,0.008710801,1,10.25
+" American (New), Sports Bars",Bars,0.005226481,0.75,11.95833333
+" American (New), Sports Bars", Nightlife,0.005226481,0.75,7.6875
+" Sports Bars,Pizza", Nightlife,0.005226481,1,10.25
+" Sports Bars,Bars", Nightlife,0.010452962,0.857142857,8.785714286
+" Restaurants, Sports Bars", Nightlife,0.006968641,1,10.25
+" Sports Bars,Food", Nightlife,0.005226481,1,10.25
+" Restaurants, Wine & Spirits", Beer,0.005226481,1,44.15384615
+" Beer, Restaurants", Wine & Spirits,0.005226481,1,52.18181818
+" Shopping, Wine & Spirits", Beer,0.006968641,1,44.15384615
+" Beer, Shopping", Wine & Spirits,0.006968641,1,52.18181818
+" Wine & Spirits,Food", Beer,0.005226481,1,44.15384615
+" Beer,Food", Wine & Spirits,0.005226481,0.75,39.13636364
+" Gyms, Restaurants",Active Life,0.005226481,0.75,20.5
+" Grocery, Shopping",Food,0.005226481,1,9.111111111
+" Grocery, Restaurants",Food,0.005226481,0.75,6.833333333
+" Coffee & Tea, Fitness & Instruction",Food,0.005226481,1,9.111111111
+" Fitness & Instruction,Food", Coffee & Tea,0.005226481,1,20.5
+"Food,Italian", Pizza,0.008710801,1,20.5
+" American (Traditional), Restaurants", Nightlife,0.008710801,1,10.25
+" Nightlife, Restaurants", American (Traditional),0.008710801,1,17.9375
+" Coffee & Tea, Italian",Restaurants,0.006968641,1,28.7
+" Coffee & Tea, Italian",Food,0.006968641,1,9.111111111
+" Beauty & Spas, Pizza",Food,0.005226481,0.75,6.833333333
+" Bars,Breakfast & Brunch", Nightlife,0.005226481,1,10.25
+"Breakfast & Brunch,Pizza", Sandwiches,0.005226481,0.75,17.9375
+" Bars,American (New)", Nightlife,0.005226481,1,10.25
+" American (Traditional), Bars", Nightlife,0.005226481,0.75,7.6875
+" American (New), Bars", Nightlife,0.010452962,0.857142857,8.785714286
+" Bars, Shopping", Nightlife,0.006968641,0.8,8.2
+" Bars, Restaurants", Nightlife,0.006968641,1,10.25
+" Sandwiches, Shopping",Pizza,0.005226481,1,21.25925926
+"American (New),Bars", Nightlife,0.008710801,1,10.25
+" Coffee & Tea,Restaurants",Food,0.008710801,0.833333333,7.592592593
+" Coffee & Tea, Pizza",Food,0.006968641,1,9.111111111
+" Pizza,Bars", Nightlife,0.005226481,1,10.25
+" Nightlife, Pizza",Bars,0.005226481,0.75,11.95833333
+" Nightlife, Pizza",Food,0.005226481,0.75,6.833333333
+" American (New), American (Traditional)", Nightlife,0.010452962,1,10.25
+" American (Traditional), Restaurants", Nightlife,0.010452962,0.75,7.6875
+" American (Traditional),Food", Nightlife,0.008710801,0.833333333,8.541666667
+" American (New),Bars", Nightlife,0.013937282,0.888888889,9.111111111
+" American (New),Food", Nightlife,0.010452962,1,10.25
+" Coffee & Tea,Pizza",Food,0.005226481,1,9.111111111
+"Bars,Pizza", Nightlife,0.006968641,1,10.25
+" Nightlife,Pizza",Bars,0.006968641,0.8,12.75555556
+" Coffee & Tea,Bars", Nightlife,0.005226481,1,10.25
+" Coffee & Tea,Bars",Food,0.005226481,1,9.111111111
+" Coffee & Tea, Nightlife",Food,0.008710801,1,9.111111111
+" Coffee & Tea, Restaurants",Food,0.008710801,0.833333333,7.592592593
+" Shopping,Bars", Nightlife,0.005226481,1,10.25
+"Bars,Food", Nightlife,0.012195122,0.875,8.96875
+" American (New), American (Traditional), Pubs", Nightlife,0.005226481,1,10.25
+" American (Traditional), Nightlife, Pubs", American (New),0.005226481,0.75,17.22
+" American (Traditional), Sports Bars,Bars", Nightlife,0.006968641,1,10.25
+" American (Traditional), Nightlife, Sports Bars",Bars,0.006968641,0.8,12.75555556
+" Coffee & Tea, Italian,Restaurants",Food,0.006968641,1,9.111111111
+" Italian,Food,Restaurants", Coffee & Tea,0.006968641,1,20.5
+" Coffee & Tea, Italian,Food",Restaurants,0.006968641,1,28.7
+" Coffee & Tea,Food,Restaurants", Italian,0.006968641,0.8,32.8
+" American (New), American (Traditional),Bars", Nightlife,0.005226481,1,10.25
+" American (New), American (Traditional),Food", Nightlife,0.005226481,1,10.25
+" American (Traditional),Bars,Food", Nightlife,0.005226481,1,10.25
+" American (New),Bars,Food", Nightlife,0.005226481,1,10.25
+" Coffee & Tea, Nightlife,Bars",Food,0.005226481,1,9.111111111
+" Coffee & Tea,Bars,Food", Nightlife,0.005226481,1,10.25

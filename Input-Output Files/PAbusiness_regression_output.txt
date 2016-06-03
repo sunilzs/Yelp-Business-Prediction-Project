@@ -1,0 +1,18 @@
+Call:
+ randomForest(formula = regression_value ~ ., data = train, mtry = 6,      importance = TRUE, na.action = na.omit) 
+               Type of random forest: regression
+                     Number of trees: 500
+No. of variables tried at each split: 6
+
+          Mean of squared residuals: 1650.481
+                    % Var explained: 95.83
+> round(importance(ozone.rf), 2)
+                          %IncMSE IncNodePurity
+clusters                    -1.35      207663.9
+after_Jan2010_count         55.10    69821737.6
+after_Jan2014_count          1.95     1271857.6
+after_Jun2014_count          2.48     2289772.9
+after_Jan2015_count          0.19     1053854.3
+weighted_regression_value   17.99    18670649.8
+ratings_avg                 12.30      782208.9
+users_sum                   15.20    17760448.6
